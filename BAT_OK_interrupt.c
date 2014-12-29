@@ -1,4 +1,5 @@
 //Edit for github purpose ***
+//Ed it for github
 //PROGRAM TO COMPARE AN A/D VALUE FOR BAT_OK, TAKEN AT PIN RA0, WITH VDD TO SEE IF HIGH OR LOW AND PUT THE PIC TO SLEEP ACCORDINGLY
 //Could a digital input be used instead of A/D input?
 
